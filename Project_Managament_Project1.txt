@@ -17,7 +17,6 @@ taken:
 -score maken, laten zien wat je al geraakt
 -bord tegenstander maken naast eigen bord 
 -computer laten keuzes maken
--
 
 
 
