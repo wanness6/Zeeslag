@@ -1,0 +1,25 @@
+voorbeelden
+
+-eenvoudig spelletje:   -zeeslag
+			-snake
+			-
+zeeslag:
+
+_X______	____II__
+__IX____	________
+
+taken:
+-bord maken (A-F?, 1-6?)
+-bootjes kiezen (groote)
+-posities kiezen
+-keuze waar schieten
+-tegenstander maken(computer)
+-score maken, laten zien wat je al geraakt
+-bord tegenstander maken naast eigen bord 
+-computer laten keuzes maken
+-
+
+
+
+
+	
