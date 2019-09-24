@@ -34,17 +34,14 @@ Dit repo is toegevoegd aan mijn GitKraken
 	2.1. High level planning (What will we do when?)
 	
 		19/9 Release plan in Confluence
-		
 		3/10 JIRA backlog met user stories
-		
-	 	10/2 Opzetten Github repo + Start Sprint 1
-		
+		10/2 Opzetten Github repo + Start Sprint 1
 		17/10 Afsluiten Sprint 1 + Start Sprint 2
-		
 		24/10 Opzetten CI/CD pipeline in Bitrise + Afsluiten Sprint 2 + Start Sprint 3
 	
 	
 	2.2. (Team)
+	
 		Amer Al Shanawany
 		Wannes Strauven 
 		Stijn Roscam
