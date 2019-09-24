@@ -5,16 +5,19 @@ voorbeelden
 -eenvoudig spelletje:   
       -zeeslag
 			-snake
-			-
+			
+			
 zeeslag:
 
-	1	2	3	4	5	6
-A	~	~	~	~	~	~
-B	X	~	~	~	~	~
-C	~	~	O	X	~	~
-D	~	XXX	~	~	~	~
-E	~	~	~	~	~	~
-F	~	~	~	~	XXX	~
+
+		1	2	3	4	5	6
+	
+	A	~	~	~	~	~	~
+	B	X	~	~	~	~	~
+	C	~	~	O	X	~	~
+	D	~	XXX	~	~	~	~
+	E	~	~	~	~	~	~
+	F	~	~	~	~	XXX	~
 
 ~	Zee
 XXX	groot schip
@@ -23,7 +26,10 @@ O	"vernietigd schip"
 
 
 taken:
--bord maken (A-F?, 1-6?)
+	
+	-bord maken (A-F?, 1-6?)
+
+
 Game Loop:
 
 	per round
@@ -40,11 +46,17 @@ Featuers:
 
 
 1. Background:
+
 	1.1. Problem/solution (Why?)
+	
 		create a tiny game-software 
+		
 	1.2. Proposal/scope (What?)
+	
 		a recreation of the oldschool original Battleship game in a console application version	
+		
 	1.3. Resources (Efforts?)
+	
 		
 2. Planning Page
 	
