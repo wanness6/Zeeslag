@@ -8,20 +8,37 @@ voorbeelden
 			-
 zeeslag:
 
-_X______	____II__
-__IX____	________
+	1	2	3	4	5	6
+A	~	~	~	~	~	~
+B	X	~	~	~	~	~
+C	~	~	O	X	~	~
+D	~	XXX	~	~	~	~
+E	~	~	~	~	~	~
+F	~	~	~	~	XXX	~
+
+~	Zee
+XXX	groot schip
+X	klein schip
+O	"vernietigd schip"
+
 
 taken:
 -bord maken (A-F?, 1-6?)
--bootjes kiezen (groote)
--posities kiezen
--keuze waar schieten
--tegenstander maken(computer)
--score maken, laten zien wat je al geraakt
--bord tegenstander maken naast eigen bord 
--computer laten keuzes maken
+Game Loop:
 
-Dit repo is toegevoegd aan mijn GitKraken  
+	per round
+	-bootjes kiezen (groote)
+	-posities kiezen
+	-keuze waar schieten
+	-score maken
+	-laten zien wat je al geraakt
+	
+Featuers: 	
+
+	-tegenstander maken(computer) Random values - computer laten keuzes maken
+	-bord tegenstander maken naast eigen bord 
+
+
 1. Background:
 	1.1. Problem/solution (Why?)
 		create a tiny game-software 
